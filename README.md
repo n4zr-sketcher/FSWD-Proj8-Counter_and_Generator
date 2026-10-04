@@ -1,6 +1,6 @@
-# Small Tools
+# Number Counter and Random Generator
 
-Small Tools is a lightweight React application built with Vite. It provides a simple dashboard with two small utilities: a counter and a random number generator.
+This is a lightweight React application built with Vite. It provides a simple dashboard with two small utilities: a counter and a random number generator.
 
 ## Overview
 
